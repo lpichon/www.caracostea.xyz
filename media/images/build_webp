@@ -1,0 +1,2 @@
+cwebp -q 75 pic76.jpg -o pic76.jpg.webp
+cwebp -q 30 pic75.jpg.webp -o ../thumbnail/pic75.jpg.webp

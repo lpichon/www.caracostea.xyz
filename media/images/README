@@ -1,0 +1,96 @@
+  122  cwebp Robotique.png -o Robotique.png.webp
+  157  cwebp -q 75 1997\ Maurepas\ village\ 100X73.jpg -o pic79.jpg.webp
+  164  cwebp -q 75 1997\ Maurepas\ village\ 100X73.jpg -o ../thumbnail/pic79.jpg.webp
+  165  cwebp -q 75 2005\ Hiver\ à\ Prague\ -\ 46x57vf.jpg -o pic80.jpg.webp
+  166  cwebp -q 75 2005\ Hiver\ à\ Prague\ -\ 46x57vf.jpg -o ../thumbnail/pic80.jpg.webp
+  167  cwebp -q 30 2005\ Hiver\ à\ Prague\ -\ 46x57vf.jpg -o ../thumbnail/pic80.jpg.webp
+  168  cwebp -q 75 2009\ Terre\ neuve\ -\ 92X73_DxO.jpg -o pic81.jpg.webp 
+  169  cwebp -q 30 2009\ Terre\ neuve\ -\ 92X73_DxO.jpg -o ../thumbnail/pic81.jpg.webp 
+  170  cwebp -q 75 2010\ Rue\ Brancas\ -\ 100x73.jpg -o pic82.jpg.webp 
+  171  cwebp -q 75 2010\ Rue\ Brancas\ -\ 100x73.jpg -o ../thumbnail/pic82.jpg.webp 
+  172  cwebp -q 75 2012\ Thomas\ Cambell\ house\ -\ 92X73.jpg -o pic83.jpg.webp 
+  173  cwebp -q 75 2012\ Thomas\ Cambell\ house\ -\ 92X73.jpg -o ../thumbnail/pic83.jpg.webp 
+  174  cwebp -q 75 2016\ Les\ toits\ de\ Paris\ 92X73.jpg -o pic84.jpg.webp 
+  175  cwebp -q 75 2016\ Les\ toits\ de\ Paris\ 92X73.jpg -o ../thumbnail/pic84.jpg.webp 
+  176  cwebp -q 75 2018\ La\ maison\ jaune\ -\ 100X73.jpg -o ../thumbnail/pic85.jpg.webp
+  177  cwebp -q 75 2018\ La\ maison\ jaune\ -\ 100X73.jpg -o pic85.jpg.webp
+  178  cwebp -q 75 2018\ Le\ Morvan\ -\ 92X66.jpg -o pic86.jpg.webp
+  179  cwebp -q 75 2018\ Le\ Morvan\ -\ 92X66.jpg -o ../thumbnail/pic86.jpg.webp
+  180* cwebp -q 30 2018\ Le\ Morvan\ -\ 92X66.jpg -o ../thumbnai
+  181  cwebp -q 75 2019\ Métro\ Dupleix\ -\ 73X92.jpg -o pic87.jpg.webp
+  182  cwebp -q 30 2019\ Métro\ Dupleix\ -\ 73X92.jpg -o ../thumbnail/pic87.jpg.webp
+  183  cwebp -q 75 2021\ Marseille\ \,\ coup\ de\ vent\ sur\ mejean\ 100X73.jpg -o pic88.jpg.webp 
+  184  cwebp -q 30 2021\ Marseille\ \,\ coup\ de\ vent\ sur\ mejean\ 100X73.jpg -o ../thumbnail/pic88.jpg.webp 
+  185  cwebp -q 75 2021\ Marseille\ Sormiou\ 92X73.jpg -o pic89.jpg.webp
+  186  cwebp -q 30 2021\ Marseille\ Sormiou\ 92X73.jpg -o ../thumbnail/pic89.jpg.webp
+  187  cwebp -q 30 2021\ Marseille\ La\ baie\ des\ singes\ 92X73.jpg -o ../thumbnail/pic90.jpg.webp
+  188  cwebp -q 75 2021\ Marseille\ La\ baie\ des\ singes\ 92X73.jpg -o pic90.jpg.webp
+  191  history | grep cwebp
+  192  history | grep cwebp >> README
+  122  cwebp Robotique.png -o Robotique.png.webp
+  157  cwebp -q 75 1997\ Maurepas\ village\ 100X73.jpg -o pic79.jpg.webp
+  164  cwebp -q 75 1997\ Maurepas\ village\ 100X73.jpg -o ../thumbnail/pic79.jpg.webp
+  165  cwebp -q 75 2005\ Hiver\ à\ Prague\ -\ 46x57vf.jpg -o pic80.jpg.webp
+  166  cwebp -q 75 2005\ Hiver\ à\ Prague\ -\ 46x57vf.jpg -o ../thumbnail/pic80.jpg.webp
+  167  cwebp -q 30 2005\ Hiver\ à\ Prague\ -\ 46x57vf.jpg -o ../thumbnail/pic80.jpg.webp
+  168  cwebp -q 75 2009\ Terre\ neuve\ -\ 92X73_DxO.jpg -o pic81.jpg.webp 
+  169  cwebp -q 30 2009\ Terre\ neuve\ -\ 92X73_DxO.jpg -o ../thumbnail/pic81.jpg.webp 
+  170  cwebp -q 75 2010\ Rue\ Brancas\ -\ 100x73.jpg -o pic82.jpg.webp 
+  171  cwebp -q 75 2010\ Rue\ Brancas\ -\ 100x73.jpg -o ../thumbnail/pic82.jpg.webp 
+  172  cwebp -q 75 2012\ Thomas\ Cambell\ house\ -\ 92X73.jpg -o pic83.jpg.webp 
+  173  cwebp -q 75 2012\ Thomas\ Cambell\ house\ -\ 92X73.jpg -o ../thumbnail/pic83.jpg.webp 
+  174  cwebp -q 75 2016\ Les\ toits\ de\ Paris\ 92X73.jpg -o pic84.jpg.webp 
+  175  cwebp -q 75 2016\ Les\ toits\ de\ Paris\ 92X73.jpg -o ../thumbnail/pic84.jpg.webp 
+  176  cwebp -q 75 2018\ La\ maison\ jaune\ -\ 100X73.jpg -o ../thumbnail/pic85.jpg.webp
+  177  cwebp -q 75 2018\ La\ maison\ jaune\ -\ 100X73.jpg -o pic85.jpg.webp
+  178  cwebp -q 75 2018\ Le\ Morvan\ -\ 92X66.jpg -o pic86.jpg.webp
+  179  cwebp -q 75 2018\ Le\ Morvan\ -\ 92X66.jpg -o ../thumbnail/pic86.jpg.webp
+  180* cwebp -q 30 2018\ Le\ Morvan\ -\ 92X66.jpg -o ../thumbnai
+  181  cwebp -q 75 2019\ Métro\ Dupleix\ -\ 73X92.jpg -o pic87.jpg.webp
+  182  cwebp -q 30 2019\ Métro\ Dupleix\ -\ 73X92.jpg -o ../thumbnail/pic87.jpg.webp
+  183  cwebp -q 75 2021\ Marseille\ \,\ coup\ de\ vent\ sur\ mejean\ 100X73.jpg -o pic88.jpg.webp 
+  184  cwebp -q 30 2021\ Marseille\ \,\ coup\ de\ vent\ sur\ mejean\ 100X73.jpg -o ../thumbnail/pic88.jpg.webp 
+  185  cwebp -q 75 2021\ Marseille\ Sormiou\ 92X73.jpg -o pic89.jpg.webp
+  186  cwebp -q 30 2021\ Marseille\ Sormiou\ 92X73.jpg -o ../thumbnail/pic89.jpg.webp
+  187  cwebp -q 30 2021\ Marseille\ La\ baie\ des\ singes\ 92X73.jpg -o ../thumbnail/pic90.jpg.webp
+  188  cwebp -q 75 2021\ Marseille\ La\ baie\ des\ singes\ 92X73.jpg -o pic90.jpg.webp
+  191  history | grep cwebp
+  192  history | grep cwebp >> README
+  200  cwebp -q 75 1997\ Maurepas\ village\ 100X73.jpg -o pic91.jpg.webp
+  201  cwebp -q 30 1997\ Maurepas\ village\ 100X73.jpg -o ../thumbnail/pic91.jpg.webp
+  203  history | grep cwebp >> README
+  122  cwebp Robotique.png -o Robotique.png.webp
+  157  cwebp -q 75 1997\ Maurepas\ village\ 100X73.jpg -o pic79.jpg.webp
+  164  cwebp -q 75 1997\ Maurepas\ village\ 100X73.jpg -o ../thumbnail/pic79.jpg.webp
+  165  cwebp -q 75 2005\ Hiver\ à\ Prague\ -\ 46x57vf.jpg -o pic80.jpg.webp
+  166  cwebp -q 75 2005\ Hiver\ à\ Prague\ -\ 46x57vf.jpg -o ../thumbnail/pic80.jpg.webp
+  167  cwebp -q 30 2005\ Hiver\ à\ Prague\ -\ 46x57vf.jpg -o ../thumbnail/pic80.jpg.webp
+  168  cwebp -q 75 2009\ Terre\ neuve\ -\ 92X73_DxO.jpg -o pic81.jpg.webp 
+  169  cwebp -q 30 2009\ Terre\ neuve\ -\ 92X73_DxO.jpg -o ../thumbnail/pic81.jpg.webp 
+  170  cwebp -q 75 2010\ Rue\ Brancas\ -\ 100x73.jpg -o pic82.jpg.webp 
+  171  cwebp -q 75 2010\ Rue\ Brancas\ -\ 100x73.jpg -o ../thumbnail/pic82.jpg.webp 
+  172  cwebp -q 75 2012\ Thomas\ Cambell\ house\ -\ 92X73.jpg -o pic83.jpg.webp 
+  173  cwebp -q 75 2012\ Thomas\ Cambell\ house\ -\ 92X73.jpg -o ../thumbnail/pic83.jpg.webp 
+  174  cwebp -q 75 2016\ Les\ toits\ de\ Paris\ 92X73.jpg -o pic84.jpg.webp 
+  175  cwebp -q 75 2016\ Les\ toits\ de\ Paris\ 92X73.jpg -o ../thumbnail/pic84.jpg.webp 
+  176  cwebp -q 75 2018\ La\ maison\ jaune\ -\ 100X73.jpg -o ../thumbnail/pic85.jpg.webp
+  177  cwebp -q 75 2018\ La\ maison\ jaune\ -\ 100X73.jpg -o pic85.jpg.webp
+  178  cwebp -q 75 2018\ Le\ Morvan\ -\ 92X66.jpg -o pic86.jpg.webp
+  179  cwebp -q 75 2018\ Le\ Morvan\ -\ 92X66.jpg -o ../thumbnail/pic86.jpg.webp
+  180* cwebp -q 30 2018\ Le\ Morvan\ -\ 92X66.jpg -o ../thumbnai
+  181  cwebp -q 75 2019\ Métro\ Dupleix\ -\ 73X92.jpg -o pic87.jpg.webp
+  182  cwebp -q 30 2019\ Métro\ Dupleix\ -\ 73X92.jpg -o ../thumbnail/pic87.jpg.webp
+  183  cwebp -q 75 2021\ Marseille\ \,\ coup\ de\ vent\ sur\ mejean\ 100X73.jpg -o pic88.jpg.webp 
+  184  cwebp -q 30 2021\ Marseille\ \,\ coup\ de\ vent\ sur\ mejean\ 100X73.jpg -o ../thumbnail/pic88.jpg.webp 
+  185  cwebp -q 75 2021\ Marseille\ Sormiou\ 92X73.jpg -o pic89.jpg.webp
+  186  cwebp -q 30 2021\ Marseille\ Sormiou\ 92X73.jpg -o ../thumbnail/pic89.jpg.webp
+  187  cwebp -q 30 2021\ Marseille\ La\ baie\ des\ singes\ 92X73.jpg -o ../thumbnail/pic90.jpg.webp
+  188  cwebp -q 75 2021\ Marseille\ La\ baie\ des\ singes\ 92X73.jpg -o pic90.jpg.webp
+  191  history | grep cwebp
+  192  history | grep cwebp >> README
+  200  cwebp -q 75 1997\ Maurepas\ village\ 100X73.jpg -o pic91.jpg.webp
+  201  cwebp -q 30 1997\ Maurepas\ village\ 100X73.jpg -o ../thumbnail/pic91.jpg.webp
+  203  history | grep cwebp >> README
+  204  cwebp -q 75 vitrail\ le\ berger\ vue\ intérieure.jpg -o vir10.jpg.webp 
+  205  cwebp -q 30 vitrail\ le\ berger\ vue\ intérieure.jpg -o ../thumbnail/vir10.jpg.webp 
+  207  history | grep cwebp >> README
